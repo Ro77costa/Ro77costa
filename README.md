@@ -2,7 +2,6 @@
 
 Desenvolvedora Front-end (em breve)
 Estudando HTML, CSS e Js.
-Pronouns: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/ro77costa">
