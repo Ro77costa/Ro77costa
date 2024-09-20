@@ -1,7 +1,7 @@
-## Olá Mundo! Eu sou a Rosiane!
+## Olá Universo! Eu sou a Rosiane!
 
 Desenvolvedora Front-end (em breve)
-Estudando HTML, CSS e Js.
+Estudando HTML, CSS, Js, Figma, C# e SQL.
 
 <div align="center">
   <a href="https://github.com/Ro77costa">
